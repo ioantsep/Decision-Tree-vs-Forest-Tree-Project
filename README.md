@@ -1,6 +1,7 @@
 # Decision-Tree-vs-Forest-Tree-Project
-Trying to classify and predict whether or not the borrower paid back their loan in full
 
-Comparing Algorithms
+-Trying to classify and predict whether or not the borrower paid back their loan in full
 
-**We will use lending data from 2007-2010
+-Comparing Algorithms
+
+**Lending data from LendingClub.com (2007-2010)
