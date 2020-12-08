@@ -1,2 +1,5 @@
 # Decision-Tree-vs-Forest-Tree-Project
-Borrower paid back their loan in full or not
+Trying to classify and predict whether or not the borrower paid back their loan in full
+Compare Algorithms
+
+**We will use lending data from 2007-2010
