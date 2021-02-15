@@ -1,4 +1,4 @@
-# Decision-Tree-vs-Forest-Tree
+# Decision-Tree-vs-Random Forest
 
 -Comparing Algorithms 
 
